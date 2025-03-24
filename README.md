@@ -10,3 +10,8 @@ Aircraft accidents pose significant financial and operational risks. The goal of
 - Identify aircraft models with the lowest accident rates.  
 - Analyze key accident causes and patterns.  
 - Provide data-driven recommendations for safer aircraft choices. 
+## Data  
+The dataset consists of aviation accident records, including details such as:  
+- **Aircraft Information**: Make, Model, Engine Type, Number of Engines.  
+- **Flight & Accident Details**: Event Date, Location, Purpose of Flight, Weather Conditions.  
+- **Accident Outcomes**: Injury Severity, Aircraft Damage, Fatalities, Serious Injuries.    
