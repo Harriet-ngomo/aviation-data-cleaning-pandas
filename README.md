@@ -49,6 +49,7 @@ The analysis follows a structured approach:
 - Business takeaway: Investing in **modern aircraft models** is a safer and more strategic decision.
 
 ### **2. Aircraft Safety Records**
+![image](https://github.com/Harriet-ngomo/Phase-1-Project/blob/33ed9d568e553b2418529376087df43853e39a76/Aircraft%20Models%20with%20the%20Highest%20and%20Lowest%20Accident%20rates.png)
 - **High-risk aircraft**: Cessna, Piper, and Beech models have the highest accident rates.
 - **Low-risk aircraft**: Boeing 777-306ER, Waterwings, Inc., and FOGLIO have the fewest reported accidents.
 - Business takeaway: Prioritize investment in **aircraft with historically low accident rates**.
