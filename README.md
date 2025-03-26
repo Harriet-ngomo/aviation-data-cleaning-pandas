@@ -65,11 +65,17 @@ The analysis follows a structured approach:
 - **Go-around, Standing, and Taxi** have the lowest injuries, suggesting they are less accident-prone.
 - Business takeaway:  Focus on improving safety during Cruise, Takeoff, Maneuvering, and Approach to reduce accident-related injuries.
 
-## Conclusions
-
+### **Conclusions & Business Recommendations**  
 Based on the analysis, the following recommendations can enhance decision-making in the aviation industry:
+**Invest in Low-Risk Aircraft**  
+   - Prioritize aircraft with strong safety records (e.g., Boeing 777-306ER, Waterwings, Inc.).  
+   - Avoid high-risk models with frequent accidents (e.g., certain Cessna, Piper, and Beech models).  
+**Enhance Safety During Critical Flight Phases**  
+   - Improve training and safety measures for **Takeoff, Cruise, and Landing**—the most accident-prone phases.  
+   - Focus on **Maneuvering and Approach**, which also contribute to high injury rates.  
+**Monitor Industry Trends & Regulations**  
+   - Stay updated on aviation safety standards and technological advancements.  
+   - Continuously assess accident data to refine risk management strategies.  
 
-1. **Invest in Low-Risk Aircraft**: Prioritize models with a strong safety record to minimize financial and operational risks.
-2. **Enhance Safety During Critical Phases**: Improve pilot training and technology in high-risk phases (Takeoff, Cruise, and Landing) to reduce accident-related injuries.
-3. **Monitor Industry Trends**: Stay updated on aviation safety regulations and technological advancements to adapt investment strategies.
+**Takeaway:** Data-driven decision-making can lead to **safer operations, reduced financial risks, and strategic aviation expansion.**  
 
