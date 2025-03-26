@@ -1,50 +1,66 @@
 # Phase-1-Project
 
-# Aviation Safety Analysis  
+# Aviation Risk Analysis for Business Expansion
 
-## Overview  
-As our company expands into aviation, this project analyzes historical accident data to identify **low-risk aircraft** for commercial and private operations. By understanding accident trends and risk factors, we can make data-driven decisions when selecting aircraft for our fleet.  
+**Author:** Harriet Ngomo  
 
-## Business Problem  
-Aircraft accidents pose significant financial and operational risks. The goal of this analysis is to:  
-- Identify aircraft models with the lowest accident rates.  
-- Analyze key accident causes and patterns.  
-- Provide data-driven recommendations for safer aircraft choices. 
-## Data  
-The dataset consists of aviation accident records, including details such as:  
-- **Aircraft Information**: Make, Model, Engine Type, Number of Engines.  
-- **Flight & Accident Details**: Event Date, Location, Purpose of Flight, Weather Conditions.  
-- **Accident Outcomes**: Injury Severity, Aircraft Damage, Fatalities, Serious Injuries. 
+## Overview
 
----
+This project analyzes aviation accident data from **1962 to 2023** to identify the safest aircraft models for commercial and private operations. By evaluating historical accident trends, aircraft safety records, and risk factors, this analysis provides actionable insights to minimize financial and operational risks. 
+
+## Business Problem
+
+Entering the aviation industry presents challenges, especially for companies with limited experience in assessing aircraft risks. Investing in aircraft with poor safety records can lead to financial losses and operational hazards. This project aims to identify low-risk aircraft models using a data-driven approach, ensuring informed investment decisions.
+
+## Data
+
+The dataset is sourced from the **National Transportation Safety Board (NTSB)** and contains **31 columns** detailing aviation accidents. Key features include:
+
+- **Aircraft Information**: Make, model, number of engines, and engine type.
+- **Accident Details**: Date, location, weather conditions, and severity.
+- **Operational Factors**: Purpose of flight, regulatory category, and air carrier details.
+- **Injury & Damage Information**: Number of fatalities, serious injuries, and uninjured passengers.
+- **Report Information**: Investigation type, accident number, and report status.
+
 ## Methods
 
-## Data Cleaning Process
+The analysis follows a structured approach:
 
-## 1. Data Preprocessing  
-To ensure high-quality data for analysis, the following cleaning steps were performed:  
+1. **Data Cleaning**:
+   - Handling missing values by dropping columns with excessive missing data (>60%) and filling categorical/numeric columns appropriately.
+   - Standardizing data types for accurate analysis.
 
-### Dropped Columns  
-- **Removed 'Schedule' and 'Air.carrier'** due to excessive missing values (>80%).  
-- **Dropped 'FAR.Description' and 'Aircraft.Category'** since over 60% of values were missing, making them unreliable for analysis.  
+2. **Exploratory Data Analysis (EDA)**:
+   - Identifying trends in aviation accidents over time.
+   - Assessing accident frequency across different aircraft models.
+   - Examining risk factors such as weather conditions and flight phases.
 
-### Handling Missing Values  
+3. **Data Visualization**:
+   - **Time Series Analysis**: Trends in aviation accidents over the years.
+   - **Bar Charts**: Aircraft models with the highest and lowest accident rates.
+   - **Risk Factor Analysis**: Identifying the most accident-prone flight phases.
 
-#### Categorical Columns  
-Missing values in categorical columns were replaced with `"Unknown"` to retain all data points:  
-- `Broad.phase.of.flight`, `Publication.Date`, `Engine.Type`, `Report.Status`, `Purpose.of.flight`, `Weather.Condition`, `Aircraft.damage`, `Injury.Severity`, `Airport.Code`, `Airport.Name`, `Location`, `Country`, `Make`, `Model`, `Registration.Number`.  
+## Results
 
-For `Amateur.Built`, missing values were replaced with `"No"` since the majority of aircraft are not amateur-built.  
+### **1. Aviation Accidents Trend (1982-2022)**
+- Aviation accidents have **declined over the years**, reflecting improvements in aircraft technology, safety regulations, and training.
+- A sharp decline in **2020** aligns with the COVID-19 pandemic and reduced flight activity.
+- Business takeaway: Investing in **modern aircraft models** is a safer and more strategic decision.
 
-#### Numerical Columns  
-Missing numerical values were filled with `0`, assuming no injuries occurred when data was unavailable:  
-- `Total.Fatal.Injuries`, `Total.Serious.Injuries`, `Total.Minor.Injuries`, `Total.Uninjured`.  
+### **2. Aircraft Safety Records**
+- **High-risk aircraft**: Cessna, Piper, and Beech models have the highest accident rates.
+- **Low-risk aircraft**: Boeing 777-306ER, Waterwings, Inc., and FOGLIO have the fewest reported accidents.
+- Business takeaway: Prioritize investment in **aircraft with historically low accident rates**.
 
-For `Number.of.Engines`:  
-- If **numeric**, missing values were filled with the **median**.  
-- If **non-numeric**, they were replaced with `"Unknown"`.  
+### **3. Flight Phase & Risk Factors**
+- **Takeoff, Cruise, and Landing** have the highest injury rates.
+- **Go-around, Standing, and Taxi** are the safest phases with minimal injuries.
+- Business takeaway: Focus on safety improvements in **critical flight phases** to reduce risks.
 
-### Final Check  
-After cleaning, all missing values were successfully handled, ensuring a complete dataset for analysis.  
+## Conclusions
 
----
+Based on the analysis, the following recommendations can enhance decision-making in the aviation industry:
+
+1. **Invest in Low-Risk Aircraft**: Prioritize models with a strong safety record to minimize financial and operational risks.
+2. **Enhance Safety During Critical Phases**: Improve pilot training and technology in high-risk phases (Takeoff, Cruise, and Landing) to reduce accident-related injuries.
+3. **Monitor Industry Trends**: Stay updated on aviation safety regulations and technological advancements to adapt investment strategies.
