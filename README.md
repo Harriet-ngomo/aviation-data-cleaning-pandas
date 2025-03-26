@@ -56,9 +56,14 @@ The analysis follows a structured approach:
 
 ### **3. Flight Phase & Risk Factors**
 ![image alt](https://github.com/Harriet-ngomo/Phase-1-Project/blob/44218aaacb898506c445f0a4d7a20b3b3fc53e92/Injury%20severity%20by%20Flight%20phase.png)
-- **Takeoff, Cruise, and Landing** have the highest injury rates.
-- **Go-around, Standing, and Taxi** are the safest phases with minimal injuries.
-- Business takeaway: Focus on safety improvements in **critical flight phases** to reduce risks.
+- **Landing,Cruise and Takeoff** have the highest total injuries, indicating these are the most critical phases for safety.
+
+- **Maneuvering and Approach** also pose significant risks, with a high number of injuries.
+
+- **Climb and Descent** show moderate injury rates.
+
+- **Go-around, Standing, and Taxi** have the lowest injuries, suggesting they are less accident-prone.
+- Business takeaway:  Focus on improving safety during Cruise, Takeoff, Maneuvering, and Approach to reduce accident-related injuries.
 
 ## Conclusions
 
