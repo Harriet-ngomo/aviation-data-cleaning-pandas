@@ -64,3 +64,4 @@ Based on the analysis, the following recommendations can enhance decision-making
 1. **Invest in Low-Risk Aircraft**: Prioritize models with a strong safety record to minimize financial and operational risks.
 2. **Enhance Safety During Critical Phases**: Improve pilot training and technology in high-risk phases (Takeoff, Cruise, and Landing) to reduce accident-related injuries.
 3. **Monitor Industry Trends**: Stay updated on aviation safety regulations and technological advancements to adapt investment strategies.
+
