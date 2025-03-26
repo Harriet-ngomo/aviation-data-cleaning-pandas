@@ -67,13 +67,14 @@ The analysis follows a structured approach:
 
 ### **Conclusions & Business Recommendations**  
 Based on the analysis, the following recommendations can enhance decision-making in the aviation industry:
-**Invest in Low-Risk Aircraft**  
+
+- **Invest in Low-Risk Aircraft**  
    - Prioritize aircraft with strong safety records (e.g., Boeing 777-306ER, Waterwings, Inc.).  
    - Avoid high-risk models with frequent accidents (e.g., certain Cessna, Piper, and Beech models).  
-**Enhance Safety During Critical Flight Phases**  
+- **Enhance Safety During Critical Flight Phases**  
    - Improve training and safety measures for **Takeoff, Cruise, and Landing**—the most accident-prone phases.  
    - Focus on **Maneuvering and Approach**, which also contribute to high injury rates.  
-**Monitor Industry Trends & Regulations**  
+- **Monitor Industry Trends & Regulations**  
    - Stay updated on aviation safety standards and technological advancements.  
    - Continuously assess accident data to refine risk management strategies.  
 
