@@ -43,7 +43,7 @@ The analysis follows a structured approach:
 ## Results
 
 ### **1. Aviation Accidents Trend (1982-2022)**
-![image alt](Aviatian Accidents trend.png)
+![image alt]([Aviatian Accidents trend.png](https://github.com/Harriet-ngomo/Phase-1-Project/blob/8d754ac98a24a4949417ba5c96c22887c0b38252/Aviatian%20Accidents%20trend.png))
 - Aviation accidents have **declined over the years**, reflecting improvements in aircraft technology, safety regulations, and training.
 - A sharp decline in **2020** aligns with the COVID-19 pandemic and reduced flight activity.
 - Business takeaway: Investing in **modern aircraft models** is a safer and more strategic decision.
