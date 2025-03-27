@@ -65,6 +65,10 @@ The analysis follows a structured approach:
 - **Go-around, Standing, and Taxi** have the lowest injuries, suggesting they are less accident-prone.
 - Business takeaway:  Focus on improving safety during Cruise, Takeoff, Maneuvering, and Approach to reduce accident-related injuries.
 
+- ## Interactive Dashboard  
+[View the Tableau Dashboard](https://public.tableau.com/views/Book1_17430285436540/PROJECTDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ### **Conclusions & Business Recommendations**  
 Based on the analysis, the following recommendations can enhance decision-making in the aviation industry:
 
