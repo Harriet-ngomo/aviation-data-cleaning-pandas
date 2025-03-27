@@ -51,7 +51,7 @@ The analysis follows a structured approach:
 ### **2. Aircraft Safety Records**
 ![image](https://github.com/Harriet-ngomo/Phase-1-Project/blob/33ed9d568e553b2418529376087df43853e39a76/Aircraft%20Models%20with%20the%20Highest%20and%20Lowest%20Accident%20rates.png)
 - **High-risk aircraft**: Cessna, Piper, and Beech models have the highest accident rates.
-- **Low-risk aircraft**: Boeing 777-306ER, Waterwings, Inc., and FOGLIO have the fewest reported accidents.
+- **Low-risk aircraft**: The safest aircraft:CULP JOHN S,Bibbee,JANTZEN and more have the lowest accident rates, indicating strong safety performance. Businesses should prioritize these models for lower aviation risk.
 - Business takeaway: Prioritize investment in **aircraft with historically low accident rates**.
 
 ### **3. Flight Phase & Risk Factors**
@@ -69,7 +69,7 @@ The analysis follows a structured approach:
 Based on the analysis, the following recommendations can enhance decision-making in the aviation industry:
 
 - **Invest in Low-Risk Aircraft**  
-   - Prioritize aircraft with strong safety records (e.g., Boeing 777-306ER, Waterwings, Inc.).  
+   - Prioritize aircraft with strong safety records (e.g.,CULP JOHN S,Bibbee,JANTZEN ).  
    - Avoid high-risk models with frequent accidents (e.g., certain Cessna, Piper, and Beech models).  
 - **Enhance Safety During Critical Flight Phases**  
    - Improve training and safety measures for **Takeoff, Cruise, and Landing**—the most accident-prone phases.  
