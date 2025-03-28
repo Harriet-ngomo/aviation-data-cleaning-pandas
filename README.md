@@ -13,7 +13,9 @@ This project analyzes aviation accident data from **1962 to 2023** to identify t
 Entering the aviation industry presents challenges, especially for companies with limited experience in assessing aircraft risks. Investing in aircraft with poor safety records can lead to financial losses and operational hazards. This project aims to identify low-risk aircraft models using a data-driven approach, ensuring informed investment decisions.
 
 ## Data
-
+## Dataset Source
+The dataset used for this analysis is from Kaggle. You can access it here:  
+[Aviation Accident Database Synopses](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 The dataset is sourced from the **National Transportation Safety Board (NTSB)** and contains **31 columns** detailing aviation accidents. Key features include:
 
 - **Aircraft Information**: Make, model, number of engines, and engine type.
@@ -63,7 +65,7 @@ The analysis follows a structured approach:
 - **Climb and Descent** show moderate injury rates.
 
 - **Go-around, Standing, and Taxi** have the lowest injuries, suggesting they are less accident-prone.
-- Business takeaway:  Focus on improving safety during Cruise, Takeoff, Maneuvering, and Approach to reduce accident-related injuries.
+- Business takeaway:  Focus on improving safety during Landing,Cruise, Takeoff, Maneuvering, and Approach to reduce accident-related injuries.
 
 - ## Interactive Dashboard  
 [View the Tableau Dashboard](https://public.tableau.com/views/Book1_17430285436540/PROJECTDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -74,7 +76,7 @@ Based on the analysis, the following recommendations can enhance decision-making
 
 - **Invest in Low-Risk Aircraft**  
    - Prioritize aircraft with strong safety records (e.g.,CULP JOHN S,Bibbee,JANTZEN ).  
-   - Avoid high-risk models with frequent accidents (e.g., certain Cessna, Piper, and Beech models).  
+   - Avoid high-risk models with frequent accidents (e.g., Cessna, Piper, and Beech models).  
 - **Enhance Safety During Critical Flight Phases**  
    - Improve training and safety measures for **Takeoff, Cruise, and Landing**—the most accident-prone phases.  
    - Focus on **Maneuvering and Approach**, which also contribute to high injury rates.  
