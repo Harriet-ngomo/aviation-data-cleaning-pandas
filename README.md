@@ -69,7 +69,7 @@ The analysis follows a structured approach:
 
 - ## Interactive Dashboard
 - ## Aviation Risk Analysis Dashboard  
-![Dashboard Preview]() 
+![Dashboard Preview](https://github.com/Harriet-ngomo/aviation-data-cleaning-pandas/blob/5afe5f1f6423b0bd934a98ae0ce5aa9b01fe784f/images/AVIATION%20DASHBOARD.png) 
 
 You can also view the interactive version:
 
