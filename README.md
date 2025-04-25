@@ -69,7 +69,7 @@ The analysis follows a structured approach:
 
 - ## Interactive Dashboard
 - ## Aviation Risk Analysis Dashboard  
-![Dashboard Preview](https://github.com/Harriet-ngomo/Phase-1-Project/blob/b76ec5c554a9e30e60db2eb548f9cd2ac3d0f98f/images/Tableau%20Dashboard.png) 
+![Dashboard Preview]() 
 
 You can also view the interactive version:
 
